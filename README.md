@@ -36,7 +36,7 @@
 > **参数:**   
 > *msg  
 > **Examples:**  
-> > <table border="1">
+> <table border="1">
 > <tbody><tr>
 > <td>Comment</td>
 > <td>这是一个注释</td>
