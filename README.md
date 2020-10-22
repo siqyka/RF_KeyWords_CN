@@ -12,6 +12,26 @@
 > **参数:**   
 > *args  
 > **Examples:**   
+>   1  
+>   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> >   1  
+> 
 > <table border="1">
 > <tbody><tr>
 > <td>${str1} =</td>
@@ -30,7 +50,7 @@
 >====>  
 > \${str1} = 'Hello world'  
 > \${str2} = 'Hello---world'
-</details>
+
 
 ###  🛠 Comment<a id="Comment"></a>
 > **释义:**   
@@ -47,6 +67,7 @@
 > </tr>
 > </tbody></table>  
 
+
 ###  🛠 Continue For Loop<a id="ContinueForLoop"></a>
 > **释义:**   
 >  跳过当前循环，进行下一次循环。   
@@ -57,6 +78,7 @@
 > 
 >====>  
 > INFO : A
+
 
 ###  🛠 Continue For Loop If<a id="ContinueForLoopIf"></a>
 > **释义:**   
